@@ -26,7 +26,6 @@ Using longitudinal clinical data from the **Mayo Clinic Primary Biliary Cirrhosi
 * ~418 patients
 * 7,905 longitudinal observations (~19 records per patient)
 
-> ⚠️ Although the dataset is longitudinal, this project applies **cross-sectional modelling**. Temporal modelling (e.g., LSTM, Transformers) is identified as future work.
 
 ---
 
@@ -97,13 +96,6 @@ Model performance is assessed using:
 * Pandas & NumPy
 
 ---
-
-## 📂 Project Structure
-
-```bash
-├── final_reported_code.ipynb   # Full modelling pipeline
-├── README.md                  # Project documentation
-```
 
 ---
 
